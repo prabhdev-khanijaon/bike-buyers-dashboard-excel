@@ -5,6 +5,12 @@ This project showcases my ability to work with data in Excel, performing data cl
 
 This project is an in-depth analysis of a dataset containing information about bike buyers. The goal of the analysis is to identify key patterns and insights that influence customer decisions to purchase bikes. The project was completed using Excel, including data cleaning, pivot tables, and dashboard creation to present the findings in a concise and informative manner.
 
+## Contents
+- 'bike_buyers' sheet: Raw data.
+- 'Working Sheet' sheet: Manipulated data; working sheet.
+- 'Pivot Table' sheet: Pivot tables, and raw charts. Also included Dashboard on this page due to slicers being tied to pivot tables on the same sheet and unable to move to a separate sheet where the dashboard is built.
+- 'Dashboard' sheet: Dashboard.
+
 ## Skills Demonstrated
 - Data Cleaning and Preparation
 - Pivot Tables and Summarization
@@ -17,3 +23,9 @@ This project is an in-depth analysis of a dataset containing information about b
 - **Pivot Tables**: Summarized data for easier interpretation of trends.
 - **Data Visualization**: Created interactive dashboards to showcase insights visually.
 - **Customer Segmentation**: Grouped buyers by various demographics such as age, income, and region.
+
+## Contents
+- 'bike_buyers' sheet: Raw data.
+- 'Working Sheet' sheet: Manipulated data; working sheet.
+- 'Pivot Table' sheet: Pivot tables, and raw charts. Also included Dashboard on this page due to slicers being tied to pivot tables on the same sheet and unable to move to a separate sheet where the dashboard is built.
+- 'Dashboard' sheet: Dashboard.
